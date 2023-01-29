@@ -1,0 +1,8 @@
+3
+A B C
+5
+A or not B
+B or not C
+C or not A
+A or B or C
+not A or not B or not C
